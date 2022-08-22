@@ -1,0 +1,9 @@
+﻿  PlatformerGameSFML.cpp
+  Application.cpp
+D:\PlatformerGameSFML\PlatformerGameSFML\Sources\Application.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\PlatformerGameSFML\PlatformerGameSFML\Sources\Application.cpp(8,74): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\PlatformerGameSFML\PlatformerGameSFML\Sources\Application.cpp(8,74): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+  Engine.cpp
+  GameplayState.cpp
+  Generating Code...
+  PlatformerGameSFML.vcxproj -> D:\PlatformerGameSFML\PlatformerGameSFML\x64\Debug\PlatformerGameSFML.exe
