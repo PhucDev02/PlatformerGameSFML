@@ -22,7 +22,12 @@
     <ClCompile Include="PlatformerGameSFML.cpp" />
     <ClCompile Include="Sources\Application.cpp" />
     <ClCompile Include="Sources\GameManager\ResourceManager.cpp" />
+    <ClCompile Include="Sources\GameObject\Animation.cpp" />
+    <ClCompile Include="Sources\GameObject\Block.cpp" />
+    <ClCompile Include="Sources\GameObject\Collider.cpp" />
     <ClCompile Include="Sources\GameObject\Engine.cpp" />
+    <ClCompile Include="Sources\GameObject\GameMap.cpp" />
+    <ClCompile Include="Sources\GameObject\Player.cpp" />
     <ClCompile Include="Sources\GameState\GameplayState.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -30,7 +35,12 @@
     <ClInclude Include="Sources\GameConfig.h" />
     <ClInclude Include="Sources\GameManager\ResourceManager.h" />
     <ClInclude Include="Sources\GameManager\Singleton.h" />
+    <ClInclude Include="Sources\GameObject\Animation.h" />
+    <ClInclude Include="Sources\GameObject\Block.h" />
+    <ClInclude Include="Sources\GameObject\Collider.h" />
     <ClInclude Include="Sources\GameObject\Engine.h" />
+    <ClInclude Include="Sources\GameObject\GameMap.h" />
+    <ClInclude Include="Sources\GameObject\Player.h" />
     <ClInclude Include="Sources\GameState\GameplayState.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

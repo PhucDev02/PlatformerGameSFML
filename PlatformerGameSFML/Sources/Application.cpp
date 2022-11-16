@@ -18,7 +18,7 @@ void Application::Update(float deltaTime)
 }
 void Application::Render()
 {
-	//window->clear();
+	window->clear();
 	//draw sth
 	engine.draw(*window);
 	//

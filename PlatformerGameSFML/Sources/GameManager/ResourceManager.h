@@ -15,20 +15,12 @@ public:
 	ResourceManager();
 	~ResourceManager();
 
-	void addTexture(std::string name);
-	void removeTexture(std::string name);
 	sf::Texture* getTexture(std::string name);
 
-	void addFont(std::string name);
-	void removeFont(std::string name);
 	sf::Font* getFont(std::string name);
 
-	void addSound(std::string name);
-	void removeSound(std::string name);
 	sf::Sound* getSound(std::string name);
 
-	void addMusic(std::string name);
-	void removeMusic(std::string name);
 	sf::Music* getMusic(std::string name);
 
 	void playMusic(std::string name);
